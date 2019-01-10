@@ -6,7 +6,7 @@ Our system would have to support a traffic light system that could run with and 
 
 ### Links
 - Asip Library for Racket: https://github.com/fraimondi/racket-asip
-- Final paper: 
+- Final paper: https://github.com/patrickfalcon/traffic-light/blob/master/traffic-light.pdf
 
 ![Finished board](https://i.imgur.com/lHdMZGg.jpg)
 ![Finished board](https://i.imgur.com/BX21N5O.jpg)
